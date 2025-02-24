@@ -1,3 +1,8 @@
-<b>Developmental release test!</b>
+<b>Bug Fixes</b>
 
-This is our first developmental release, to test whether the CI script works correctly.
+* Fixed QR Code crash.
+* Fixed some font size issues.
+
+<b>Known Issues</b>
+
+* Options other than A000 cannot be loaded.
