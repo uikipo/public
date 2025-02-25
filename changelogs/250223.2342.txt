@@ -1,0 +1,8 @@
+<b>Bug Fixes</b>
+
+* Fixed QR Code crash.
+* Fixed some font size issues.
+
+<b>Known Issues</b>
+
+* Options other than A000 cannot be loaded.
