@@ -55,6 +55,7 @@ Here is a list of devices that are compatible with KanadeDX. If you have a devic
 **Tablet**
 
 - ✅ OnePlus Pad 2 (2024, Snapdragon 8 Gen 3, 8GB)
+- ✅ Samsung Tab S9 FE+ (2023, Exynos 1380, 6GB)
 - ⚠️ Xiaomi Pad 5 (2021, Snapdragon 860, 6GB)  
   ("A bit laggy, feel like 30fps")
 

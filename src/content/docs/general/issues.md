@@ -11,6 +11,7 @@ Below are some existing issues that are currently being worked on:
 
 1. Importing assets other than A000 cause a black screen.
 2. Some areas may cause the game to crash.
+3. Camera may crash on some devices (You can disable camera permissions for now).
 
 ## Frequently Asked Questions
 
