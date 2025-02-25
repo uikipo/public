@@ -23,19 +23,29 @@ Here is a list of devices that are compatible with KanadeDX. If you have a devic
 
 **Mobile**
 
-- ✅ iPhone 12
-- ✅ iPhone X
-- ✅ iPhone 8 Plus
+- ✅ iPhone 15 (2023, A16, 6GB)
+- ✅ iPhone 13 / Pro Max (2021, A15, 4GB)
+- ✅ iPhone 12 (2020, A14, 4GB)
+- ✅ iPhone X (2017, A11, 3GB)
+- ✅ iPhone 8 Plus (2017, A11, 3GB)
 
 **Tablet**
 
-- ✅ iPad Pro M1
-- ⚠️ iPad 6th Generation (Crashes when too much memory is used)
+- ✅ iPad Pro M1 (2021, 8GB)
+- ✅ iPad 9th Gen (2021, A13, 3GB)
+- ✅ iPad Mini 5 (2019, A12, 3GB)
+- ✅ iPad 7th Gen (2019, A10, 3GB)  
+  (Initial loading take a longer time)
+- ⚠️ iPad 6th Generation (2018, A10, 2GB)  
+  (Crashes when too much memory is used)
 
 ### Android
 
 **Mobile**
 
+* ✅ Xiaomi Poco M3 (2020, Snapdragon 662, 4GB)
+* ✅ Samsung S10e (2019, Snapdragon 855, 6GB)
+
 **Tablet**
 
-- ✅ OnePlus Pad 2
+- ✅ OnePlus Pad 2 (2024, Snapdragon 8 Gen 3, 8GB)
