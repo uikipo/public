@@ -6,23 +6,44 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'KanadeDX',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				discord: "https://discord.gg/DR5zBEb47a",
+				telegram: "https://t.me/KanadeDX",
+				github: "https://github.com/KanadeDX/Public",
 			},
 			sidebar: [
 				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
+					label: 'Getting Started',
+					autogenerate: { directory: 'start' },
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Information',
+					autogenerate: { directory: 'general' },
 				},
 			],
+
+			logo: {
+				src: './src/assets/kanade.png',
+			},
+			customCss: [
+				'./src/styles/custom.css',
+			],
+
+			// Set English as the default language for this site.
+			defaultLocale: 'root',
+			locales: {
+				// English docs in `src/content/docs/en/`
+				root: {
+					label: 'English',
+					lang: 'en',
+				},
+				// Simplified Chinese docs in `src/content/docs/zh-cn/`
+				zh: {
+					label: '简体中文',
+					lang: 'zh-CN',
+				},
+			},
 		}),
 	],
 });
