@@ -31,6 +31,7 @@ Here is a list of devices that are compatible with KanadeDX. If you have a devic
 
 **Tablet**
 
+- ✅ iPad Air M1 (2022, 8GB)
 - ✅ iPad Pro M1 (2021, 8GB)
 - ✅ iPad 9th Gen (2021, A13, 3GB)
 - ✅ iPad Mini 5 (2019, A12, 3GB)
