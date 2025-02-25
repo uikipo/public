@@ -51,11 +51,16 @@ Here is a list of devices that are compatible with KanadeDX. If you have a devic
 * ✅ Pixel 7 Pro (2022, Tensor G2, 8GB)
 * ✅ Xiaomi Poco M3 (2020, Snapdragon 662, 4GB)
 * ✅ Samsung S10e (2019, Snapdragon 855, 6GB)
+* ⚠️ Samsung A35 (2024, Exynos 1380, 6GB)  
+  ("Does not like note dense charts, FPS drops to like 30")
 
 **Tablet**
 
 - ✅ OnePlus Pad 2 (2024, Snapdragon 8 Gen 3, 8GB)
 - ✅ Samsung Tab S9 FE+ (2023, Exynos 1380, 6GB)
+- ✅ Samsung Tab S9+ (2023, Snapdragon 8 Gen 2, 12GB)
+- ⚠️ Redmi Pad Pro / Poco Pad (2024, Snapdragon 7s Gen 2, 8GB)  
+  ("Stutters a bit when there's a lot of notes, but still very playable")
 - ⚠️ Xiaomi Pad 5 (2021, Snapdragon 860, 6GB)  
   ("A bit laggy, feel like 30fps")
 
