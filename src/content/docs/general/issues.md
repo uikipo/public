@@ -3,7 +3,7 @@ title: Issues & FAQ
 description: Troubleshooting common issues and bugs.
 ---
 
-If you are experiencing issues with the game, please check the following list of common issues and solutions. If you are unable to find a solution to your problem, please ask for help in the [Discord Server](https://discord.gg/DR5zBEb47a) or [Telegram Group](https://t.me/KanadeDX).
+If you are experiencing issues with the game, please check the following list of common issues and solutions. If you are unable to find a solution to your problem, please ask for help in the [Discord Server](https://discord.gg/ycZPRGRMUf) or [Telegram Group](https://t.me/KanadeDX).
 
 ## Known Issues
 

@@ -24,7 +24,7 @@ Here is a list of devices that are compatible with KanadeDX. If you have a devic
 **Mobile**
 
 - ✅ iPhone 15 (2023, A16, 6GB)
-- ✅ iPhone 13 / Pro Max (2021, A15, 4GB)
+- ✅ iPhone 13 / Pro / Pro Max / Mini (2021, A15, 4GB)
 - ✅ iPhone 12 (2020, A14, 4GB)
 - ✅ iPhone X (2017, A11, 3GB)
 - ✅ iPhone 8 Plus (2017, A11, 3GB)
@@ -32,8 +32,11 @@ Here is a list of devices that are compatible with KanadeDX. If you have a devic
 **Tablet**
 
 - ✅ iPad Air M1 (2022, 8GB)
+- ✅ iPad Pro M2 (2022, 8GB)
 - ✅ iPad Pro M1 (2021, 8GB)
-- ✅ iPad 9th Gen (2021, A13, 3GB)
+- ✅ iPad 10th Gen (2022, A14, 4GB)
+- ✅ iPad 9th Gen (2021, A13, 3GB)  
+  ("May lag on spontaneous effects like touch rainbow")
 - ✅ iPad Mini 5 (2019, A12, 3GB)
 - ✅ iPad 7th Gen (2019, A10, 3GB)  
   (Initial loading take a longer time)
@@ -44,9 +47,14 @@ Here is a list of devices that are compatible with KanadeDX. If you have a devic
 
 **Mobile**
 
+* ✅ Pixel 7a (2023, Tensor G2, 8GB)
+* ✅ Pixel 7 Pro (2022, Tensor G2, 8GB)
 * ✅ Xiaomi Poco M3 (2020, Snapdragon 662, 4GB)
 * ✅ Samsung S10e (2019, Snapdragon 855, 6GB)
 
 **Tablet**
 
 - ✅ OnePlus Pad 2 (2024, Snapdragon 8 Gen 3, 8GB)
+- ⚠️ Xiaomi Pad 5 (2021, Snapdragon 860, 6GB)  
+  ("A bit laggy, feel like 30fps")
+

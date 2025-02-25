@@ -9,7 +9,7 @@ export default defineConfig({
 		starlight({
 			title: 'KanadeDX',
 			social: {
-				discord: "https://discord.gg/DR5zBEb47a",
+				discord: "https://discord.gg/ycZPRGRMUf",
 				telegram: "https://t.me/KanadeDX",
 				github: "https://github.com/KanadeDX/Public",
 			},
