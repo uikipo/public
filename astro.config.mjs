@@ -30,6 +30,10 @@ export default defineConfig({
 			customCss: [
 				'./src/styles/custom.css',
 			],
+			components: {
+			  // Relative path to the custom component.
+			  Head: './src/components/Head.astro',
+			},
 
 			// Set English as the default language for this site.
 			defaultLocale: 'root',
