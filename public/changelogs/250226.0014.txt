@@ -1,0 +1,15 @@
+*Fixes*
+
+\* Touch passes through to the game in the setting menu
+\* Slider too large and will mistrigger
+\* Aime card ID menu will crash the game
+\* Vairous typo
+
+*Others*
+
+\* Allow two fingers to tap the same area
+\* Quick retry
+\* Credit lock to 25
+\* Rename SeriID to Keychip
+\* Allow Select button to click select for 2P
+\* Disable camera by default
