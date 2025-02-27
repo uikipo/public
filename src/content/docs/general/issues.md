@@ -17,23 +17,23 @@ Below are some existing issues that are currently being worked on:
 
 **Q: It says `tree.csv` is missing.**
 
-A: If you insist on using your own assets, you need to create the `tree.csv` by running [this Python script](/misc/scripts/tree.py) in the `StreamingAssets` folder.
+> A: If you insist on using your own assets, you need to create the `tree.csv` by running [this Python script](/misc/scripts/tree.py) in the `StreamingAssets` folder.
 
 **Q: The game says cannot find A000 even though I've already transferred the assets.**
 
-A: If you manually transferred the assets instead of using the in-game downloader, you need to manually create a file named `FinishedDownload` in the `StreamingAssets` folder.
+> A: If you manually transferred the assets instead of using the in-game downloader, you need to manually create a file named `FinishedDownload` in the `StreamingAssets` folder.
 
 **Q: Whenever the game tries to take a picture after I finish the song, the game crashes!**
 
-A: Disable camera permissions by going into Settings > Apps and Notifications (or Apps, depending on your device maker and ROM) > searching "KanadeDX" and going to "Permissions". Set the Camera permissions to "Don't allow".
+> A: Disable camera permissions by going into Settings > Apps and Notifications (or Apps, depending on your device maker and ROM) > searching "KanadeDX" and going to "Permissions". Set the Camera permissions to "Don't allow".
 
 **Q: On iOS devices, if I go to a specific area/song/character, it crashes!**
 
-A: This issue is slowly being resolved and seems to only be a problem on iOS. Try avoiding whatever is making your game crash, or check if you added any unlock flags on your profile that you shouldn't have in AquaDX or your chosen server.
+> A: This issue is slowly being resolved and seems to only be a problem on iOS. Try avoiding whatever is making your game crash, or check if you added any unlock flags on your profile that you shouldn't have in AquaDX or your chosen server.
 
 **Q: If I've originally installed the "NoVideo" version of the assets, would it damage anything if I installed the video data over it?**
 
-A: This isn't particularly tested yet, but it is recommended to redownload from Miniserve (MAKE SURE YOU HAVE ENOUGH FREE SPACE!) to prevent any data corruption. Make sure to also reinitialize your assets for KanadeDX to use in the settings menu.
+> A: This isn't particularly tested yet, but it is recommended to redownload from Miniserve (MAKE SURE YOU HAVE ENOUGH FREE SPACE!) to prevent any data corruption. Make sure to also reinitialize your assets for KanadeDX to use in the settings menu.
 
 **Q: How do I change my keychip to save my gameplay on leaderboards?**
 
@@ -45,8 +45,8 @@ DO NOT SHARE YOUR KEYCHIP (or card number) WITH OTHERS! IT IS FOR YOURSELF ONLY 
 
 **Q: How do I rotate the game to Portrait orientation for phones?**
 
-A: Please update to version Canary 250227.0222 or later.
+> A: Please update to version Canary 250227.0222 or later.
 
 **Q: It crashes when I try to search for the Access Code for my Aime in-game!**
 
-A: Please update to version Canary 250227.0222 or later.
+> A: Please update to version Canary 250227.0222 or later.
