@@ -1,0 +1,12 @@
+<i>Fixes</i>
+
+* Aime card ID menu will crash the game
+* Null reference crash in AIME lookup
+
+<i>Features</i>
+
+* Portrait (vertical) orientation support
+* &quot;Track skip when lose focus&quot; can now be turned off in settings
+
+> [!WARNING]
+> <b>Notice: The release .apk and .ipa files are no longer hosted here and are moved to the Discord and Telegram group chats. Please <a href="https://kdx.nightcord.com.de/general/community">read more here</a>.
