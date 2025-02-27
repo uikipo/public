@@ -23,7 +23,7 @@ The game assets are separate from the program itself. After you downloaded the t
         chmod +x ./miniserve* && ./miniserve* .
         ```
 
-    - **Linux**: You know what to do.
+    - **Linux**: [You know what to do.](https://www.youtube.com/watch?v=FOrineGipnw)
 2. Enter the download url in game. It should look something like `http://192.168.1.123:8080`. You can find the ip address of your computer in wifi settings. (This is not the same as your public IP address, and it will most likely start with either `192.168` or `10.0`).
 3. Click download.
 
