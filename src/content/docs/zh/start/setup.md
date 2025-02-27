@@ -5,7 +5,7 @@ description: 第一次设置游戏时的指南
 
 ## **1. 获取资源文件**
 
-要获取游戏资源文件，你可以访问 [Telegram 群组](https://t.me/KanadeDX) 或 [Discord 服务器](https://discord.gg/ycZPRGRMUf) 的文件频道。本指南假设你已经获取了所需的文件。
+要获取游戏资源文件，你可以访问 [Telegram 群组](https://kdx.nightcord.com.de/zh/general/community) 或 [Discord 服务器](https://kdx.nightcord.com.de/zh/general/community) 的文件频道。本指南假设你已经获取了所需的文件。
 
 ---
 

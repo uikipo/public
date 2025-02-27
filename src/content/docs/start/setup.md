@@ -5,7 +5,7 @@ description: Setting up the game for the first time.
 
 ## 1. Obtaining Assets
 
-To obtain game asset files, you can visit the files channel on either the [Telegram Group](https://t.me/KanadeDX) or [Discord Server](https://discord.gg/ycZPRGRMUf). This guide assumes that you have already obtained the files.
+To obtain game asset files, you can visit the files channel on either the [Telegram Group](https://kdx.nightcord.com.de/general/community) or [Discord Server](https://kdx.nightcord.com.de/general/community). This guide assumes that you have already obtained the files.
 
 ## 2. Transferring Assets
 

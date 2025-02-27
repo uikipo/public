@@ -3,7 +3,7 @@ title: 问题与常见问答 (FAQ)
 description: 解决常见问题和错误的指南
 ---
 
-如果您在游戏中遇到问题，请查看以下常见问题及其解决方案。如果仍无法解决您的问题，请在 [Discord 服务器](https://discord.gg/ycZPRGRMUf) 或 [Telegram 群组](https://t.me/KanadeDX) 中寻求帮助。
+如果您在游戏中遇到问题，请查看以下常见问题及其解决方案。如果仍无法解决您的问题，请在 [Discord 服务器](https://kdx.nightcord.com.de/zh/general/community) 或 [Telegram 群组](https://kdx.nightcord.com.de/zh/general/community) 中寻求帮助。
 
 ## 已知问题
 
