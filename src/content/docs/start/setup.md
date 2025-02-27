@@ -13,7 +13,16 @@ The game assets are separate from the program itself. After you downloaded the t
 
 1. Start miniserve in StreamingAssets
     - **Windows**: Click on `StreamingAssets/miniserve.exe` and wait 3s.
-    - **Mac**: Download the correct file from [GitHub Releases](https://github.com/svenstaro/miniserve/releases/tag/v0.29.0) ("aarch64-apple-darwin" if you have a M-series CPU or "x86_64-apple-darwin" if you have an Intel CPU). Then, copy it to `StreamingAssets`, open a terminal in `StreamingAssets`, and type `chmod +x ./miniserve* && ./miniserve* .`
+    - **Mac**: Download the correct file from [GitHub Releases](https://github.com/svenstaro/miniserve/releases/tag/v0.29.0) depending on your system:
+        - "aarch64-apple-darwin" if you have a M-series CPU.
+        - "x86_64-apple-darwin" if you have an Intel CPU.
+
+        Then, copy it to `StreamingAssets`, open a terminal in `StreamingAssets`, and type:
+
+        ```bash
+        chmod +x ./miniserve* && ./miniserve* .
+        ```
+
     - **Linux**: You know what to do.
 2. Enter the download url in game. It should look something like `http://192.168.1.123:8080`. You can find the ip address of your computer in wifi settings. (This is not the same as your public IP address, and it will most likely start with either `192.168` or `10.0`).
 3. Click download.
