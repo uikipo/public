@@ -47,6 +47,10 @@ Here is a list of devices that are compatible with KanadeDX. If you have a devic
 - ⚠️ iPad 6th Generation (2018, A10, 2GB)  
   (Crashes when too much memory is used)
 
+**??????**
+
+- ✅ Apple Vision Pro (2024, M2, 16GB)
+
 ### Android
 
 **Mobile**
