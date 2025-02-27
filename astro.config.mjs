@@ -33,6 +33,7 @@ export default defineConfig({
 			components: {
 			  // Relative path to the custom component.
 			  Head: './src/components/Head.astro',
+			  PageFrame: './src/components/PageFrame.astro',
 			},
 
 			// Set English as the default language for this site.

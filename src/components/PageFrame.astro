@@ -1,0 +1,144 @@
+---
+import Default from '@astrojs/starlight/components/PageFrame.astro'
+import KanakumaPurple from '../assets/kanakuma_purple.png'
+---
+<Default><slot name="header" slot="header" /><slot name="sidebar" slot="sidebar" /><slot /></Default>
+
+
+<div class="kuma-container">
+    <div id="bubble-container">
+       <div class="bubble" id="kuma-bubble"></div>
+    </div>
+    <img src={KanakumaPurple.src} alt="Kanakuma Purple" class="kuma" />
+</div>
+
+<div id="bottom-margin"></div>
+
+<script>
+    const bubble = document.getElementById('kuma-bubble');
+
+    const messages = [
+        "食べずに生きられればいいのに",
+        "運命共同体",
+        "ご飯よりも曲づくり",
+        "あがいて、いつか……",
+        "いらなくなんてない",
+        "闇を照らす光",
+        "心に残った歌声",
+        "部屋に響く異音",
+        "フラワーセラピー",
+        "まふゆからのお礼",
+        "まぶしい歌声",
+        "天才の耳",
+        "穏やかな時間",
+        "これからも、４人で",
+        "思い出のスペシャルプレート",
+        "いつでも頼って",
+        "何度でも見つけるから",
+        "あっという間に流れる会話",
+        "初めてのカフェ作業",
+        "コロッケじゃなくてミートボール",
+        "昔と今の違いは……",
+        "その心を照らすのは",
+        "スポジョイパーク・リターンズ！",
+        "そばで、このあたたかさを",
+        "ひとりじゃない食卓",
+        "待つことのもどかしさ",
+        "あたりまえをあたりまえに",
+        "元気をくれる歌",
+        "ぎこちない共同生活",
+        "超インドア派",
+        "魔法の花畑",
+        "奏でられた祝福のメロディー",
+        "お茶会がくれたもの",
+        "盛大な寝癖",
+        "特別なお茶",
+        "たとえ砕けていても",
+        "その手にあるご利益",
+        "みんなで変身ＳＨＯＷ！",
+        "大切な仲間だから",
+        "こぼさないようにしないと",
+        "抜群の機能性",
+        "友人達に囲まれて"
+    ];
+
+
+    function getRandomMessage() {
+        return messages[Math.floor(Math.random() * messages.length)];
+    }
+
+    const kumaContainer = document.querySelector('.kuma-container');
+
+    kumaContainer?.addEventListener('mouseover', () => {
+        bubble!.textContent = getRandomMessage();
+    });
+</script>
+
+
+<style>
+.kuma-container {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    z-index: 5;
+}
+
+.kuma {
+    width: 200px; 
+    opacity: 0.4;
+    transition: opacity 0.5s;
+}
+
+.kuma:hover {
+    opacity: 1;
+    animation: sway 1.2s infinite ease-in-out;
+}
+
+#bubble-container {
+    position: absolute;
+    bottom: 220px;
+    right: 20px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bubble {
+    color: var(--sl-color-black);
+    background-color: var(--sl-color-white);
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    opacity: 0;
+    transition: opacity 0.5s;
+    pointer-events: none; /* Make the bubble not block hover */
+}
+
+.kuma-container:hover .bubble {
+    opacity: 1;
+}
+
+@keyframes sway {
+    0%, 100% {
+        transform: rotate(-5deg);
+    }
+    50% {
+        transform: rotate(5deg);
+    }
+}
+
+@media (max-width: 500px) {
+    .kuma {
+        width: 130px;
+    }
+
+    #bubble-container {
+        bottom: 150px;
+    }
+}
+
+#bottom-margin {
+    height: 200px;
+}
+</style>
