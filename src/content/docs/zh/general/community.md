@@ -3,7 +3,7 @@ title: 关于社区与版本发布
 description: 加入 KanadeDX 社区，与其他玩家交流并获得帮助。
 ---
 
-KanadeDX 拥有一个 Discord 服务器和一个 Telegram 群聊。版本更新将通过这些平台发布。
+KanadeDX 拥有一个 Discord 服务器和一个 Telegram 群聊。应用文件将通过这些平台发布。
 
 然而，从 2025 年 2 月 27 日起，这些平台将转为邀请制，以控制社区的快速增长并避免不必要的关注。
 
