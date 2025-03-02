@@ -1,0 +1,17 @@
+<i>Fixes</i>
+
+* 「裏 月面ちほー」Moon area and other area-related crash
+* Language preference was not saved
+
+<i>Features</i>
+
+* ✨ AquaMai: Disable timeout (Unlimited timers) ✨
+* AquaMai: Ignore aime server error
+* AquaMai: Skip event and information
+* AquaMai: Skip goodbye screen after logout
+* AquaMai: Skip TrackStart delay
+* Common missing data file checks (dummy.dat, Table)
+* A button to force asset reconversion
+
+> [!WARNING]
+> <b>Notice: The release .apk and .ipa files are no longer hosted here and are moved to the Discord and Telegram group chats. Please <a href="https://kdx.nightcord.com.de/general/community">read more here</a>.
