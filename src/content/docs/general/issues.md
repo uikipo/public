@@ -15,6 +15,10 @@ Below are some existing issues that are currently being worked on:
 
 ## Frequently Asked Questions
 
+**Q: It says dummy.dat, DX_title.dat, or KALEID_BG_240412.dat is missing**
+
+> A: These files are part of the NoVideo torrent. If you are using your own assets and want to delete MovieData, you need to make sure these three files are preserved. If you already transferred the other files, please copy these three files from the NoVideo torrent to the `StreamingAssets/A000/MovieData` folder.
+
 **Q: It says `tree.csv` is missing.**
 
 > A: If you insist on using your own assets, you need to create the `tree.csv` by running [this Python script](/misc/scripts/tree.py) in the `StreamingAssets` folder.

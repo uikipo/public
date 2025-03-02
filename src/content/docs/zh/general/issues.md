@@ -19,6 +19,10 @@ description: 解决常见问题和错误的指南
 
 ## 常见问题解答 (FAQ)
 
+**问：它说缺少 dummy.dat、DX_title.dat 或 KALEID_BG_240412.dat***
+
+> 答：这些文件是 NoVideo 数据的一部分。如果您使用自己的资产并想删除 MovieData，您需要确保保留这三个文件。如果您已经传输了其他文件，请将这三个文件从 NoVideo 数据复制到 `StreamingAssets/A000/MovieData` 文件夹。
+
 **Q: 我正在使用自定义的 StreamingAssets，但下载失败，并提示 `tree.csv` 文件丢失。**
 
 > A: 如果您坚持使用自己的资源文件，您需要在 `StreamingAssets` 文件夹内运行 [这个 Python 脚本](/misc/scripts/tree.py) 来生成 `tree.csv` 文件。
